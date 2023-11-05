@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: AR MAGIS - Humanités Numériques Spatialisées 
+title: 
 
 # Your name to show in the footer
 author: Ludovic Moncla and Carmen Brando
@@ -24,11 +24,11 @@ url: https://hns-magis.github.io
 
 
 navbar-links:
-  Description: "index"
+  Présentation: "index"
   Actions & ressources:
-    - Atelier MAGIS 2023: "_pages/2023-AtelierMAGIS.md"
+    - Atelier MAGIS 2023: "pages/2023-AtelierMAGIS"
     - Groupe Zotero: "https://www.zotero.org/groups/2445835/humanits_numriques_spatialises_-_textes_et_analyse_spatiale/"
-  Actualités: "#"
+  Actualités: "news"
 
 
 #navbar-links:
