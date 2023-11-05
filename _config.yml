@@ -24,11 +24,11 @@ url: https://hns-magis.github.io
 
 
 navbar-links:
-  Description: "aboutme"
+  Description: "index"
   Actions & ressources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Actualités: "https://deanattali.com"
+    - Atelier MAGIS 2023: "_pages/2023-AtelierMAGIS"
+    - Groupe Zotero: "https://www.zotero.org/groups/2445835/humanits_numriques_spatialises_-_textes_et_analyse_spatiale/"
+  Actualités: "#"
 
 
 #navbar-links:
