@@ -2,7 +2,7 @@
 layout: post
 title: 6th ACM SIGSPATIAL Geospatial Humanities Workshop
 thumbnail-img: /assets/img/logo_acmsigspatial.png
-tags: [news]
+tags: [workshop]
 comments: false
 ---
 
