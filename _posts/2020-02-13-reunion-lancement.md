@@ -4,7 +4,6 @@ title: Réunion de lancement
 subtitle: AR Humanités Numériques Spatialisées
 tags: [news]
 comments: false
-author: Ludovic Moncla
 ---
 
 
