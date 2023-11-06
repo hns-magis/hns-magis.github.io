@@ -26,7 +26,7 @@ url: https://hns-magis.github.io
 navbar-links:
   Présentation: "index"
   Actions & ressources:
-    - Atelier MAGIS 2023: "pages/2023-AtelierMAGIS"
+    - Atelier MAGIS 2023: "2023-11-05-atelier-journees-magis2023"
     - Groupe Zotero: "https://www.zotero.org/groups/2445835/humanits_numriques_spatialises_-_textes_et_analyse_spatiale/"
   Actualités: "news"
 
