@@ -4,7 +4,6 @@ title: Démarrage de l'AR HNS
 subtitle: 
 tags: [news]
 comments: false
-author: Ludovic Moncla
 ---
 
 
