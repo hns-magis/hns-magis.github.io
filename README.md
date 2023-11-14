@@ -7,3 +7,32 @@ On peut citer les groupes d'intérêt spécial [​ADHO GeoHumanities](https://g
 
 Cette AR a pour enjeu de fédérer un groupe pluridisciplinaire de chercheurs en informatique, géographie, linguistique et SHS autour des questions liées à l’extraction et l’interprétation d’informations géographiques à partir de documents textuels hétérogènes ​(textes, récits, annuaires, dictionnaires géographiques, encyclopédies, etc.)​.
 
+
+### Thèmes de l'action
+
+* Extraction d'information
+Extraction d'informations géographiques à partir de textes par des approches en TAL, Text Mining et web sémantique.
+
+* Ressources linguistiques
+Développement et mise à disposition de ressources linguistiques et de données (corpus textuels, gazetiers historiques, etc.) avec une perspective de réutilisabilité.
+
+* Représentation cartographique
+Visualisation, représentations cartographiques et analyse spatiale à partir de sources textuelles issues des SHS.
+
+* Conception d'outils
+Conception d'outils dédiés aux données textuelles compatibles avec les SIG (y compris SIG historiques).
+
+
+### Liste de diffusion
+
+Nous proposons une liste de diffusion afin de faciliter les échanges entre les membres de l'action de recherche HNS.
+
+Cette liste a pour objectif le partage d'information concernant les thèmes traités par l'action parmi lesquels : l'extraction d'information à partir de textes, le développement de ressources linguistiques et la représentation cartographique.
+Les informations partagées peuvent être de différentes natures : organisation de séminaires et conférences, jeux de données, tutoriels, etc.).
+
+
+Pour envoyer un message sur la liste, écrivez simplement à cette adresse : hns-magis@groupes.renater.fr 
+Votre message sera validé par un modérateur avant d'être diffusé à tous les abonnés. L'envoi de message est réservé aux abonnées de la liste.
+
+
+S'abonner à la liste de difussion : [https://groupes.renater.fr/sympa/subscribe/hns-magis](https://groupes.renater.fr/sympa/subscribe/hns-magis)
