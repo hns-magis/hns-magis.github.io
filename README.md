@@ -31,7 +31,7 @@ Les membres de la communauté peuvent ajouter des actualités qui seront affich�
 
 #### Créer une nouvelle actualité
 
-* Copier ce fichier dans le dossier [_posts](https://github.com/hns-magis/hns-magis.github.io/tree/master/_posts).
+* Copier le fichier [YYYY-MM-DD-titre.md](https://github.com/hns-magis/hns-magis.github.io/blob/master/_drafts/YYYY-MM-DD-titre.md) présent dans le dossier [_drafts](https://github.com/hns-magis/hns-magis.github.io/blob/master/_drafts/) dans le dossier [_posts](https://github.com/hns-magis/hns-magis.github.io/tree/master/_posts). Vous pouvez aussi créer un nouveau fichier dans `_posts` et y copier le contenu du fichier [_drafts/YYYY-MM-DD-titre.md](https://github.com/hns-magis/hns-magis.github.io/blob/master/_drafts/YYYY-MM-DD-titre.md).
 * Renommer le fichier en respectant le format `YYYY-MM-DD-titre.md` (ex: `2023-11-06-titre.md`).
 * Adapter le contenu du fichier (métadonnées YAML et texte de l'actualité au format markdown).
 * Faire une pull request sur la branche `master` pour proposer l'actualité.
