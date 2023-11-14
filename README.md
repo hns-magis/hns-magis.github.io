@@ -32,7 +32,7 @@ Les informations partagées peuvent être de différentes natures : organisation
 
 
 Pour envoyer un message sur la liste, écrivez simplement à cette adresse : hns-magis@groupes.renater.fr 
-Votre message sera validé par un modérateur avant d'être diffusé à tous les abonnés. L'envoi de message est réservé aux abonnées de la liste.
+Votre message sera validé par un modérateur avant d'être diffusé à tous les abonnés. L'envoi de messages est réservé aux abonnées de la liste.
 
 
 S'abonner à la liste de difussion : [https://groupes.renater.fr/sympa/subscribe/hns-magis](https://groupes.renater.fr/sympa/subscribe/hns-magis)
