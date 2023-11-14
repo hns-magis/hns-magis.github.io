@@ -22,6 +22,28 @@ Visualisation, représentations cartographiques et analyse spatiale à partir de
 * Conception d'outils
 Conception d'outils dédiés aux données textuelles compatibles avec les SIG (y compris SIG historiques).
 
+### Site Web
+
+Le site Web de l'action est disponible à l'adresse suivante : [https://hns-magis.github.io](https://hns-magis.github.io).
+
+Les membres de la communauté peuvent ajouter des actualités qui seront affichées sur le site.
+
+
+#### Créer une nouvelle actualité
+
+* Copier ce fichier dans le dossier [_posts](https://github.com/hns-magis/hns-magis.github.io/tree/master/_posts).
+* Renommer le fichier en respectant le format `YYYY-MM-DD-titre.md` (ex: `2023-11-06-titre.md`).
+* Adapter le contenu du fichier (métadonnées YAML et texte de l'actualité au format markdown).
+* Faire une pull request sur la branche `master` pour proposer l'actualité.
+
+
+#### Format Markdown
+
+Pour rédigier le texte de l'actualité, nous utilisons le format markdown qui sera ensuite interprété par Jekyll pour générer la page HTML.
+
+Pour en savoir plus sur la syntaxe du langage markdown vous pouvez consulter ce site : [https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/).
+
+
 
 ### Liste de diffusion
 
@@ -36,3 +58,4 @@ Votre message sera validé par un modérateur avant d'être diffusé à tous les
 
 
 S'abonner à la liste de difussion : [https://groupes.renater.fr/sympa/subscribe/hns-magis](https://groupes.renater.fr/sympa/subscribe/hns-magis)
+
