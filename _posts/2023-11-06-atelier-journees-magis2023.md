@@ -34,6 +34,7 @@ Résumé : RAPIDO (Rendre Accessibles des Publications scientifiques Indexées e
 
 **Géocodage automatisé des données de la littérature ancienne**  
 *Eric Yeny (Service d’Archéologie Préventive du Département de l’Allier – SAPDA, Geolab UMR 6042)*  
+[Slides](/assets/AtelierMAGIS2023/EYENY-MAGIS2023.pdf)
 
 **L'outil RAIES: spatialisation de points de vue d'individus interviewés**  
 *Eric Masson (Univ. Lille)*  
