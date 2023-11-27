@@ -34,7 +34,7 @@ Résumé : RAPIDO (Rendre Accessibles des Publications scientifiques Indexées e
 
 **Géocodage automatisé des données de la littérature ancienne**  
 *Eric Yeny (Service d’Archéologie Préventive du Département de l’Allier – SAPDA, Geolab UMR 6042)*  
-[Slides](/assets/AtelierMAGIS2023/EYENY-MAGIS2023.pdf)
+[Slides](/assets/AtelierMAGIS2023/EYeny-MAGIS2023.pdf)
 
 **L'outil RAIES: spatialisation de points de vue d'individus interviewés**  
 *Eric Masson (Univ. Lille)*  
@@ -45,6 +45,7 @@ Résumé : RAPIDO (Rendre Accessibles des Publications scientifiques Indexées e
 
 **Présentation d’outils numériques et d’une chaîne de production, de gestion, de partage et de publication de données spatialisées et de métadonnées sur les formations à silicites en France**  
 *Christophe Tufféry (Ministère de la Culture et UMR TEMPS), Vincent Delvigne (CNRS, UMR TEMPS), Paul Fernandes (SARL Paléotime et UMR TEMPS), Céline Bressy-Léandri (Ministère de la Culture et UMR TRACES), Stéphane Renault (CNRS, UMR LAMPEA), Jérémy Garniaux (AMU, USR 3125)*  
+[Slides](/assets/AtelierMAGIS2023/CTuffery-MAGIS2023.pdf)
 
 **Atlas historique de la Nouvelle-Aquitaine**  
 *Jean Pylouster (UMR 7295 CeRCA, Poitiers)*  
