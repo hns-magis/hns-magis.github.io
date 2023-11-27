@@ -42,7 +42,7 @@ Résumé : RAPIDO (Rendre Accessibles des Publications scientifiques Indexées e
 
 **TEXTBI : une plateforme générique pour la visualisation interactive de données multidimensionnelles issues des réseaux sociaux**  
 *Maxime Masson (UPPA), Christian Sallaberry (UPPA), Marie-Noelle Bessagnet (UPPA), Annig Le Parc Lacayrelle (UPPA), Philippe Roose (UPPA), Rodrigo Agerri (EHU/UPV)*  
-[Slides](/assets/AtelierMAGIS2023/MMasson-MAGIS2023.pdf)
+[Slides](/assets/AtelierMAGIS2023/MMasson-MAGIS2023.pdf) - [Vidéo démo](https://youtu.be/x714RKvo9Cg)
 
 **Présentation d’outils numériques et d’une chaîne de production, de gestion, de partage et de publication de données spatialisées et de métadonnées sur les formations à silicites en France**  
 *Christophe Tufféry (Ministère de la Culture et UMR TEMPS), Vincent Delvigne (CNRS, UMR TEMPS), Paul Fernandes (SARL Paléotime et UMR TEMPS), Céline Bressy-Léandri (Ministère de la Culture et UMR TRACES), Stéphane Renault (CNRS, UMR LAMPEA), Jérémy Garniaux (AMU, USR 3125)*  
