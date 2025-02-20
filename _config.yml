@@ -26,6 +26,7 @@ url: https://hns-magis.github.io
 navbar-links:
   Présentation: "index"
   Actions & ressources:
+    - Atelier SAGEO 2025: "2025-02-20-atelier-sageo2025"
     - Atelier MAGIS 2023: "2023-11-06-atelier-journees-magis2023"
     - Atelier TALN 2022: "2022-06-27-atelier-taln2022"
     - Atelier SAGEO 2021: "2021-05-05-atelier-sageo2021"
